@@ -3,10 +3,6 @@ This program has been designed to provide quick and simple provisional diagnosis
 
 ## version
 This is the first released version, ADP 1.0.
-| System | Link    |
-| -------| ----------|
-| Windows (64-bit) | adp_win64 |
-
 
 ## Purpose
 This version is for educational purposes __ONLY__. More refirements are needed for the best experience.
