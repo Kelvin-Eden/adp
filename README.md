@@ -10,7 +10,7 @@ This version is for educational purposes __ONLY__. More refirements are needed f
 
 ## Training
 The models that have been used are:
-* Gaussian Naive-Bayes 
+* Gaussian Naive-Bayes Algorithm
 * Random Forest Classifier
 * Decision Tree Classifier
 * Support Vector Classifier
