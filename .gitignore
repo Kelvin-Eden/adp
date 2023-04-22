@@ -13,3 +13,6 @@
 
 # The project virtual environment
 venv/
+
+#The pycache files
+.__pycache__.*
