@@ -18,8 +18,6 @@ The models that have been used are:
 The dataset that has been used to train the models was downloaded from [kaggle](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning "kaggle disease prediction dataset").
 
 ## Demo video
-
-
-
+https://user-images.githubusercontent.com/111653316/233822589-5a88dcd0-a87f-4462-b6aa-3f48d5224194.mp4
 
 
