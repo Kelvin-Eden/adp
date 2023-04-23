@@ -20,7 +20,7 @@ The models that have been used are:
 * Support Vector Classifier
 
 The dataset that has been used to train the models was downloaded from [kaggle](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning "kaggle disease prediction dataset").
-The standard treatment guidelines file that comes with program was downloaded from [TAMISEMI](https://www.google.com/url?sa=t&source=web&rct=j&url=https://hssrc.tamisemi.go.tz/storage/app/uploads/public/5ab/e9b/b21/5abe9bb216267130384889.pdf&ved=2ahUKEwim7rbQt77-AhWhwQIHHRLkAoYQFnoECA8QAQ&usg=AOvVaw2eGcZjE1xd1epWN6H6O7RY "STG"). However, the program is not affiliated with the organization.
+The standard treatment guidelines file that comes with program was downloaded from [here](https://www.google.com/url?sa=t&source=web&rct=j&url=https://hssrc.tamisemi.go.tz/storage/app/uploads/public/5ab/e9b/b21/5abe9bb216267130384889.pdf&ved=2ahUKEwim7rbQt77-AhWhwQIHHRLkAoYQFnoECA8QAQ&usg=AOvVaw2eGcZjE1xd1epWN6H6O7RY "STG"). However, the program is not affiliated with the organization.
 
 ## Demo video
 https://user-images.githubusercontent.com/111653316/233822589-5a88dcd0-a87f-4462-b6aa-3f48d5224194.mp4
