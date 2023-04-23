@@ -9,7 +9,7 @@ This version is for educational purposes __ONLY__. More refirements are needed f
 1. prediction of a disease from a list of signs and/or symptoms.
 1. Saving the results obtained in the '.docx' format for later preview.
 1. Exporting the results.
-1. Quick access of standard treatment guidelines for confirmation of diagnosis and treatment. The STG that comes with the program can be changed.
+1. Quick access of standard treatment guidelines for attestation of diagnosis and treatment. The STG that comes with the program can be changed.
 
 
 ## Training
