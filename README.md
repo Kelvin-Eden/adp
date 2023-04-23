@@ -1,5 +1,5 @@
 ## ADP
-This program is designed to employ machine learning (ML) predictions to offer prompt provisional diagnoses. To obtain this diagnosis, the program requires the user to provide a list of signs and/or symptoms.
+This program is designed to offer prompt provisional diagnoses using predictions made through machine learning(ML). The program requires the user to provide a list of signs and/or symptoms.
 
 ## version
 This is the first released version, ADP 1.0.
