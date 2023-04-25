@@ -2,7 +2,7 @@
 This program is designed to offer prompt provisional diagnoses using predictions made through machine learning(ML). The program requires the user to provide a list of signs and/or symptoms.
 
 ## version
-This is the first released version, ADP 1.0.
+This is the first released version, ADP 1.0. Currently, there is an installer for windows 64-bits OS. The link to download it is [windows(64-bits)](https://github.com/Kelvin-Eden/adp/releases/download/untagged-8537b8d845ddb138168f/adp_win64.exe "ADP installer")
 
 ## Purpose
 This version is for educational purposes __ONLY__. More refirements are needed for the best experience. The features currently supported are;
